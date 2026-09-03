@@ -1,30 +1,19 @@
-# jokerWare
-
-[Email](mailto:jorgeguimaraes.ware@gmail.com)
-
----
-
 ## About Me
 
-A passionate software developer with experience in web development, cybersecurity, Skilled in Python, JavaScript, and web frameworks like Flask. Always eager to learn new technologies and contribute to open-source projects.
+Python developer focused on automation, web development, and cybersecurity. I build practical tools to automate repetitive tasks, process spreadsheets and files, and simplify administrative workflows.
 
----
+I also develop web applications and continuously study Linux, networking, web security, and penetration testing.
 
 ## Skills
 
-- **Languages**: Python, JavaScript, SQL, Bash
-- **Web Development**: Flask, HTML/CSS, node
-- **Databases**: MySQL, SQLite
-- **Tools & Technologies**: Git, Docker
-- **Cybersecurity**: Penetration Testing, Vulnerability Assessment
-- **Others**: Agile Methodologies, REST APIs
-
----
+- **Languages:** Python, JavaScript, PHP, SQL, Bash
+- **Automation:** Excel/CSV processing, OpenPyXL, file organization, REST APIs
+- **Web Development:** Flask, HTML, CSS, Node.js
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, Linux, Docker
+- **Cybersecurity:** Web security, vulnerability assessment, and penetration testing fundamentals
 
 ## Languages
 
-- **Portuguese**: Fluent
-- **English**: Intermediate
-
----
-
+- **Portuguese:** Native
+- **English:** Intermediate
