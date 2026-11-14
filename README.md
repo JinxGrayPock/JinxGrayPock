@@ -1,19 +1,29 @@
-## About Me
+# dnbhl
 
-Python developer focused on automation, web development, and cybersecurity. I build practical tools to automate repetitive tasks, process spreadsheets and files, and simplify administrative workflows.
+> Knowledge should be accessible.
 
-I also develop web applications and continuously study Linux, networking, web security, and penetration testing.
+## / Interests
 
-## Skills
+- Vulnerability Research
+- Reverse Engineering
+- Binary Exploitation
+- Kernel Internals
+- Operational Security
+- Network Security
 
-- **Languages:** Python, JavaScript, PHP, SQL, Bash
-- **Automation:** Excel/CSV processing, OpenPyXL, file organization, REST APIs
-- **Web Development:** Flask, HTML, CSS, Node.js
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, Linux, Docker
-- **Cybersecurity:** Web security, vulnerability assessment, and penetration testing fundamentals
+## / Archive
 
-## Languages
+Research notes, technical documentation,
+experimental code and curated security resources.
 
-- **Portuguese:** Native
-- **English:** Intermediate
+## / Environment
+
+GNU/Linux · Vim · Python · C · Assembly
+
+## / Platforms
+
+[![Hack The Box](https://www.hackthebox.com/badge/image/019f2072-689f-72cb-aac2-45e759823a1d)](https://app.hackthebox.com/profile/019f2072-689f-72cb-aac2-45e759823a1d)
+
+---
+
+*Nothing is beyond my limits.*
